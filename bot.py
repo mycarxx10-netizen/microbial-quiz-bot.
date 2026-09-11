@@ -7,7 +7,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import Message, PollAnswer
 from aiogram.filters import Command
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8601813721:AAGzvfJP2nDeqzkNSpeb2yx9phvHXSeMKz4"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
