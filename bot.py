@@ -6,7 +6,6 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import Message, PollAnswer
 from aiogram.filters import Command
 
-# ضع التوكن الخاص بك هنا
 BOT_TOKEN = "8601813721:AAGzvfJP2nDeqzkNSpeb2yx9phvHXSeMKz4"
 
 bot = Bot(token=BOT_TOKEN)
@@ -26,7 +25,7 @@ async def send_next_question(chat_id: int, user_id: int):
     if idx >= len(questions):
         await bot.send_message(
             chat_id, 
-            "🎉 أحسنت! أنهيت بنك الأسئلة بالكامل (46/46).\nلإعادة الاختبار أرسل /quiz من جديد."
+            "🎉 أحسنت! أنهيت بنك الأسئلة بالكامل.\nلإعادة الاختبار أرسل /quiz من جديد."
         )
         user_progress[user_id] = 0
         return
@@ -34,7 +33,7 @@ async def send_next_question(chat_id: int, user_id: int):
     q = questions[idx]
     msg = await bot.send_poll(
         chat_id=chat_id,
-        question=f"[{idx + 1}/46] {q['question']}",
+        question=f"[{idx + 1}/{len(questions)}] {q['question']}",
         options=q["options"],
         type="quiz",
         correct_option_id=q["correct_option_id"],
@@ -46,14 +45,25 @@ async def send_next_question(chat_id: int, user_id: int):
 async def cmd_start(message: Message):
     await message.answer(
         "👋 مرحباً بك في اختبار **Microbial Diversity**!\n"
-        "يحتوي الاختبار على 46 سؤالاً.\n"
-        "أرسل الأمر /quiz للبدء."
+        "أرسل /quiz للبدء في الاختبار.\n"
+        "أرسل /stop لإلغاء الاختبار في أي وقت."
     )
 
 @dp.message(Command("quiz"))
 async def cmd_quiz(message: Message):
     user_progress[message.from_user.id] = 0
     await send_next_question(message.chat.id, message.from_user.id)
+
+# أمر إلغاء الاختبار
+@dp.message(Command("stop", "cancel"))
+async def cmd_stop(message: Message):
+    user_id = message.from_user.id
+    user_progress[user_id] = len(questions)  # إنهاء الجلسة
+    # إزالة أي سؤال معلق للمستخدم
+    keys_to_del = [k for k, v in poll_to_user.items() if v[1] == user_id]
+    for k in keys_to_del:
+        poll_to_user.pop(k, None)
+    await message.answer("🛑 تم إلغاء الاختبار بنجاح! للبدء مجدداً أرسل /quiz.")
 
 @dp.poll_answer()
 async def handle_poll_answer(poll_answer: PollAnswer):
@@ -66,7 +76,6 @@ async def handle_poll_answer(poll_answer: PollAnswer):
         await asyncio.sleep(1.2)
         await send_next_question(chat_id, user_id)
 
-# خادم مصغر لإبقاء حالة السيرفر في Koyeb نشطة (Healthy)
 async def health_handler(request):
     return web.Response(text="Bot is healthy and running!")
 
