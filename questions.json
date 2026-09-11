@@ -1,28 +1,8 @@
 [
   {
-    "question": "Microbial diversity refers to:",
-    "options": ["Only bacteria found in soil", "Variety of microorganisms in different environments", "Only viruses found in animals", "Microorganisms visible to the naked eye"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Microorganisms are:",
-    "options": ["Tiny living things visible without a microscope", "Tiny living things invisible to naked eye", "Only multicellular organisms", "Found only in soil"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Normal flora can:",
-    "options": ["Protect the host", "Aid digestion", "Make vitamins", "All of the above"],
-    "correct_option_id": 3
-  },
-  {
-    "question": "Biotechnology uses microbes to:",
-    "options": ["Produce vaccines and enzymes", "Build muscles in humans", "Increase plant height", "Prevent photosynthesis"],
+    "question": "Which group consists of infectious proteins causing neurodegenerative diseases?",
+    "options": ["Prions", "Viruses", "Fungi", "Helminths"],
     "correct_option_id": 0
-  },
-  {
-    "question": "Beneficial uses of viruses include:",
-    "options": ["Vaccines", "Gene therapy vectors", "Phage therapy", "All of the above"],
-    "correct_option_id": 3
   },
   {
     "question": "Which of the following microorganisms have a cell wall made of peptidoglycan?",
@@ -30,39 +10,9 @@
     "correct_option_id": 2
   },
   {
-    "question": "Which group includes unicellular prokaryotes with peptidoglycan?",
-    "options": ["Bacteria", "Archaea", "Protozoa", "Fungi"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which group is important for gut flora and probiotics?",
-    "options": ["Fungi", "Bacteria", "Archaea", "Viruses"],
+    "question": "Which therapy uses viruses that infect bacteria to kill resistant pathogens?",
+    "options": ["Antibiotics", "Phage therapy", "Immunotherapy", "Fecal transplantation"],
     "correct_option_id": 1
-  },
-  {
-    "question": "Which characteristic is correct for archaea?",
-    "options": ["Their cell wall contains peptidoglycan-like bacteria.", "They lack a nucleus and can thrive in extreme environments such as high heat, salt, or acidity.", "They are eukaryotic unicellular organisms that undergo photosynthesis.", "They are acellular entities composed of RNA only."],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Archaea are known to thrive in:",
-    "options": ["Extreme environments", "Only human body", "Plant roots", "Fungi-rich habitats"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Archaea are:",
-    "options": ["Prokaryotes lacking peptidoglycan", "Viruses with DNA", "Unicellular fungi", "Multicellular protozoa"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which group is similar to bacteria but genetically distinct and rarely pathogenic?",
-    "options": ["Archaea", "Fungi", "Protozoa", "Viruses"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which group includes unicellular yeasts and multicellular molds with cell walls made of chitin?",
-    "options": ["Fungi", "Algae", "Bacteria", "Protozoa"],
-    "correct_option_id": 0
   },
   {
     "question": "Candida infections are caused by which group?",
@@ -70,98 +20,8 @@
     "correct_option_id": 2
   },
   {
-    "question": "Which group of microorganisms includes yeasts and molds?",
-    "options": ["Algae", "Fungi", "Archaea", "Protozoa"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Helminths are classified as:",
-    "options": ["Eukaryotic and unicellular", "Prokaryotic and unicellular", "Eukaryotic and multicellular", "Acellular parasites"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which of the following is an example of a parasitic worm (helminth)?",
-    "options": ["Candida albicans", "Tapeworms", "Mycobacterium tuberculosis", "Plasmodium"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group consists of multicellular parasitic worms like tapeworms?",
-    "options": ["Helminths", "Protozoa", "Fungi", "Bacteria"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which statement about helminths is correct?",
-    "options": ["They are unicellular organisms lacking nuclei.", "They are multicellular parasites that cause chronic infections in humans.", "They are acellular microbes consisting only of RNA.", "They are always beneficial and never pathogenic."],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Protozoa are classified as:",
-    "options": ["Prokaryotes", "Eukaryotic single-celled organisms", "Viruses", "Algae with chlorophyll"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group includes Plasmodium (malaria) and Entamoeba histolytica (dysentery)?",
-    "options": ["Algae", "Protozoa", "Viruses", "Fungi"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group is photosynthetic eukaryotes and may produce toxins?",
-    "options": ["Fungi", "Archaea", "Algae", "Prions"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which group is acellular with DNA or RNA as genetic material and requires a host cell to replicate?",
-    "options": ["Viruses", "Viroids", "Protozoa", "Fungi"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Viruses are considered acellular because:",
-    "options": ["They have no DNA or RNA", "They cannot reproduce independently", "They have cell walls", "They contain ribosomes"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which of the following diseases is caused by viruses?",
-    "options": ["Tuberculosis", "COVID-19", "Malaria", "Candidiasis"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Viroids differ from viruses because they:",
-    "options": ["Contain only proteins", "Are small RNA molecules without protein coat", "Infect bacteria only", "Have both DNA and RNA"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group consists of small RNA molecules infecting plants?",
-    "options": ["Viruses", "Viroids", "Fungi", "Archaea"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group are plant pathogens composed only of RNA?",
-    "options": ["Viruses", "Viroids", "Bacteria", "Protozoa"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Prions are unique infectious agents because they are made of:",
-    "options": ["DNA only", "RNA only", "Infectious Proteins", "Polysaccharides"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which group consists of infectious proteins causing neurodegenerative diseases?",
-    "options": ["Prions", "Viruses", "Fungi", "Helminths"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which group includes nonliving infectious proteins like those causing Creutzfeldt-Jakob disease?",
-    "options": ["Viruses", "Bacteria", "Prions", "Viroids"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which function is associated with skin microbiota?",
-    "options": ["Produce vitamins like B12", "Maintain acidic pH in vagina", "Keep the skin slightly acidic", "Aid protein digestion"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which site is associated with Staphylococcus epidermidis as normal flora?",
-    "options": ["Oral cavity", "Skin", "Gut", "Urogenital tract"],
+    "question": "Microbial diversity refers to:",
+    "options": ["Only bacteria found in soil", "Variety of microorganisms in different environments", "Only viruses found in animals", "Microorganisms visible to the naked eye"],
     "correct_option_id": 1
   },
   {
@@ -170,18 +30,33 @@
     "correct_option_id": 1
   },
   {
-    "question": "Which is NOT a function of gut microbiota?",
-    "options": ["Protect against harmful microbes", "Aid in digestion", "Making vitamins (K, B12)", "Causing neurodegenerative diseases"],
+    "question": "Which of the following diseases is caused by viruses?",
+    "options": ["Tuberculosis", "COVID-19", "Malaria", "Candidiasis"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Archaea are known to thrive in:",
+    "options": ["Extreme environments", "Only human body", "Plant roots", "Fungi-rich habitats"],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Bioremediation is the process of using microbes to:",
+    "options": ["Produce antibiotics in industry", "Detoxify pollutants, oil spills, and heavy metals", "Enhance vaccine development", "Transfer genetic material between bacteria"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Which of the following is an example of a parasitic worm (helminth)?",
+    "options": ["Candida albicans", "Tapeworms", "Mycobacterium tuberculosis", "Plasmodium"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Normal flora can:",
+    "options": ["Protect the host", "Aid digestion", "Make vitamins", "All of the above"],
     "correct_option_id": 3
   },
   {
-    "question": "Which site is associated with Lactobacillus spp. as normal flora?",
-    "options": ["Oral cavity", "Gut", "Urogenital tract (female)", "Skin"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which of the following is a protective role of vaginal microbiota?",
-    "options": ["Production of Vitamin D", "Maintenance of acidic pH", "Production of bile salts", "Digestion of carbohydrates"],
+    "question": "Which group includes Plasmodium (malaria) and Entamoeba histolytica (dysentery)?",
+    "options": ["Algae", "Protozoa", "Viruses", "Fungi"],
     "correct_option_id": 1
   },
   {
@@ -190,24 +65,29 @@
     "correct_option_id": 2
   },
   {
-    "question": "Probiotic therapy often uses:",
-    "options": ["Streptococcus pyogenes", "Lactobacillus", "Candida albicans", "Mycobacterium"],
+    "question": "Which group is similar to bacteria but genetically distinct and rarely pathogenic?",
+    "options": ["Archaea", "Fungi", "Protozoa", "Viruses"],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Which group consists of small RNA molecules infecting plants?",
+    "options": ["Viruses", "Viroids", "Fungi", "Archaea"],
     "correct_option_id": 1
   },
   {
-    "question": "Antimicrobial resistance (AMR) spreads mainly via:",
-    "options": ["Air transmission", "Horizontal gene transfer", "Vertical inheritance only", "Protein denaturation"],
-    "correct_option_id": 1
+    "question": "Biotechnology uses microbes to:",
+    "options": ["Produce vaccines and enzymes", "Build muscles in humans", "Increase plant height", "Prevent photosynthesis"],
+    "correct_option_id": 0
   },
   {
-    "question": "Which therapy uses viruses that infect bacteria to kill resistant pathogens?",
-    "options": ["Antibiotics", "Phage therapy", "Immunotherapy", "Fecal transplantation"],
-    "correct_option_id": 1
+    "question": "Which is NOT a function of gut microbiota?",
+    "options": ["Protect against harmful microbes", "Aid in digestion", "Making vitamins (K, B12)", "Causing neurodegenerative diseases"],
+    "correct_option_id": 3
   },
   {
-    "question": "The main purpose of fecal microbiota transplantation (FMT) is to:",
-    "options": ["Replace damaged liver cells", "Transplant healthy gut microbes", "Stimulate antibody production directly", "Deliver synthetic antibiotics to the intestine"],
-    "correct_option_id": 1
+    "question": "Helminths are classified as:",
+    "options": ["Eukaryotic and unicellular", "Prokaryotic and unicellular", "Eukaryotic and multicellular", "Acellular parasites"],
+    "correct_option_id": 2
   },
   {
     "question": "Phage therapy relies on the use of:",
@@ -215,8 +95,33 @@
     "correct_option_id": 1
   },
   {
-    "question": "The main application of phage therapy is to:",
-    "options": ["Treat viral infections like influenza", "Kill multidrug-resistant bacterial pathogens", "Replace healthy gut microbiota", "Stimulate antibody production in the host"],
+    "question": "Which group is important for gut flora and probiotics?",
+    "options": ["Fungi", "Bacteria", "Archaea", "Viruses"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Prions are unique infectious agents because they are made of:",
+    "options": ["DNA only", "RNA only", "Infectious Proteins", "Polysaccharides"],
+    "correct_option_id": 2
+  },
+  {
+    "question": "Microorganisms are:",
+    "options": ["Tiny living things visible without a microscope", "Tiny living things invisible to naked eye", "Only multicellular organisms", "Found only in soil"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Probiotic therapy often uses:",
+    "options": ["Streptococcus pyogenes", "Lactobacillus", "Candida albicans", "Mycobacterium"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Viruses are considered acellular because:",
+    "options": ["They have no DNA or RNA", "They cannot reproduce independently", "They have cell walls", "They contain ribosomes"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Which characteristic is correct for archaea?",
+    "options": ["Their cell wall contains peptidoglycan-like bacteria.", "They lack a nucleus and can thrive in extreme environments such as high heat, salt, or acidity.", "They are eukaryotic unicellular organisms that undergo photosynthesis.", "They are acellular entities composed of RNA only."],
     "correct_option_id": 1
   },
   {
@@ -225,8 +130,103 @@
     "correct_option_id": 0
   },
   {
-    "question": "Bioremediation is the process of using microbes to:",
-    "options": ["Produce antibiotics in industry", "Detoxify pollutants, oil spills, and heavy metals", "Enhance vaccine development", "Transfer genetic material between bacteria"],
+    "question": "Which group consists of multicellular parasitic worms like tapeworms?",
+    "options": ["Helminths", "Protozoa", "Fungi", "Bacteria"],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Which function is associated with skin microbiota?",
+    "options": ["Produce vitamins like B12", "Maintain acidic pH in vagina", "Keep the skin slightly acidic", "Aid protein digestion"],
+    "correct_option_id": 2
+  },
+  {
+    "question": "Which group includes unicellular yeasts and multicellular molds with cell walls made of chitin?",
+    "options": ["Fungi", "Algae", "Bacteria", "Protozoa"],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Antimicrobial resistance (AMR) spreads mainly via:",
+    "options": ["Air transmission", "Horizontal gene transfer", "Vertical inheritance only", "Protein denaturation"],
     "correct_option_id": 1
+  },
+  {
+    "question": "Which group is photosynthetic eukaryotes and may produce toxins?",
+    "options": ["Fungi", "Archaea", "Algae", "Prions"],
+    "correct_option_id": 2
+  },
+  {
+    "question": "Beneficial uses of viruses include:",
+    "options": ["Vaccines", "Gene therapy vectors", "Phage therapy", "All of the above"],
+    "correct_option_id": 3
+  },
+  {
+    "question": "Which site is associated with Lactobacillus spp. as normal flora?",
+    "options": ["Oral cavity", "Gut", "Urogenital tract (female)", "Skin"],
+    "correct_option_id": 2
+  },
+  {
+    "question": "Which statement about helminths is correct?",
+    "options": ["They are unicellular organisms lacking nuclei.", "They are multicellular parasites that cause chronic infections in humans.", "They are acellular microbes consisting only of RNA.", "They are always beneficial and never pathogenic."],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Viroids differ from viruses because they:",
+    "options": ["Contain only proteins", "Are small RNA molecules without protein coat", "Infect bacteria only", "Have both DNA and RNA"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "The main application of phage therapy is to:",
+    "options": ["Treat viral infections like influenza", "Kill multidrug-resistant bacterial pathogens", "Replace healthy gut microbiota", "Stimulate antibody production in the host"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Which group includes unicellular prokaryotes with peptidoglycan?",
+    "options": ["Bacteria", "Archaea", "Protozoa", "Fungi"],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Which site is associated with Staphylococcus epidermidis as normal flora?",
+    "options": ["Oral cavity", "Skin", "Gut", "Urogenital tract"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Protozoa are classified as:",
+    "options": ["Prokaryotes", "Eukaryotic single-celled organisms", "Viruses", "Algae with chlorophyll"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "The main purpose of fecal microbiota transplantation (FMT) is to:",
+    "options": ["Replace damaged liver cells", "Transplant healthy gut microbes", "Stimulate antibody production directly", "Deliver synthetic antibiotics to the intestine"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Archaea are:",
+    "options": ["Prokaryotes lacking peptidoglycan", "Viruses with DNA", "Unicellular fungi", "Multicellular protozoa"],
+    "correct_option_id": 0
+  },
+  {
+    "question": "Which group includes nonliving infectious proteins like those causing Creutzfeldt-Jakob disease?",
+    "options": ["Viruses", "Bacteria", "Prions", "Viroids"],
+    "correct_option_id": 2
+  },
+  {
+    "question": "Which group are plant pathogens composed only of RNA?",
+    "options": ["Viruses", "Viroids", "Bacteria", "Protozoa"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Which group of microorganisms includes yeasts and molds?",
+    "options": ["Algae", "Fungi", "Archaea", "Protozoa"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Which of the following is a protective role of vaginal microbiota?",
+    "options": ["Production of Vitamin D", "Maintenance of acidic pH", "Production of bile salts", "Digestion of carbohydrates"],
+    "correct_option_id": 1
+  },
+  {
+    "question": "Which group is acellular with DNA or RNA as genetic material and requires a host cell to replicate?",
+    "options": ["Viruses", "Viroids", "Protozoa", "Fungi"],
+    "correct_option_id": 0
   }
 ]
