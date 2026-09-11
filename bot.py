@@ -40,19 +40,17 @@ async def send_next_question(chat_id: int):
     questions = session["questions"]
     total = len(questions)
 
-    # نهاية الاختبار
     if idx >= total:
         score = session["score"]
-        p_name = session["player_name"]
         pct = round((score / total) * 100, 1)
         title = QUIZ_TITLES.get(part, part)
 
         await bot.send_message(
             chat_id,
             f"اكتمل الاختبار: {title}\n"
-            f"المختبِر: {p_name}\n"
-            f"النتيجة النهائية: {score} من أصل {total} ({pct}%)\n"
-            f"للبدء من جديد أرسل: /start"
+            f"النتيجة النهائية:\n"
+            f"{score} من {total} ({pct}%)\n\n"
+            f"للبدء من جديد: /start"
         )
         active_sessions.pop(chat_id, None)
         return
@@ -75,20 +73,19 @@ async def send_next_question(chat_id: int):
 @dp.message(Command("start"))
 async def cmd_start(message: Message):
     await message.answer(
-        "قائمة الاختبارات المتاحة:\n\n"
+        "قائمة الاختبارات:\n\n"
         "/quiz_1 : Lecture 1 (137 سؤال)\n"
         "/quiz_2 : Lecture 2 (46 سؤال)\n"
         "/quiz_3 : Principles of Microscopy (19 سؤال)\n"
         "/quiz_4 : Classification of Microorganisms (63 سؤال)\n\n"
-        "للإلغاء في أي وقت: /stop"
+        "للإلغاء: /stop"
     )
 
 @dp.message(Command("quiz_1", "quiz_2", "quiz_3", "quiz_4"))
 async def handle_quiz(message: Message):
     chat_id = message.chat.id
     if chat_id in active_sessions:
-        p_name = active_sessions[chat_id]["player_name"]
-        await message.answer(f"تنبيه: الاختبار قيد التشغيل حالياً بواسطة {p_name}. انتظر حتى ينتهي أو يلغيه عبر /stop.")
+        await message.answer("تنبيه: يوجد اختبار نشط حالياً. يرجى الانتظار أو الإلغاء بـ /stop.")
         return
 
     part_key = message.text.replace("/", "").strip()
@@ -97,14 +94,12 @@ async def handle_quiz(message: Message):
         await message.answer("خطأ: لا توجد أسئلة مسجلة لهذا الاختبار.")
         return
 
-    # خلط عشوائي كامل
     shuffled = list(source_questions)
     random.shuffle(shuffled)
 
     title = QUIZ_TITLES.get(part_key, part_key)
     active_sessions[chat_id] = {
         "player_id": message.from_user.id,
-        "player_name": message.from_user.full_name,
         "part": part_key,
         "index": 0,
         "score": 0,
@@ -113,9 +108,7 @@ async def handle_quiz(message: Message):
 
     await message.answer(
         f"بدأ الاختبار: {title}\n"
-        f"المختبِر: {message.from_user.full_name}\n"
-        f"عدد الأسئلة: {len(shuffled)}\n"
-        f"(يمكن للمراقب متابعة النتيجة والإجابات مباشرة)"
+        f"عدد الأسئلة: {len(shuffled)}"
     )
     await send_next_question(chat_id)
 
@@ -124,16 +117,15 @@ async def cmd_stop(message: Message):
     chat_id = message.chat.id
     session = active_sessions.get(chat_id)
     if not session:
-        await message.answer("لا يوجد أي اختبار نشط لإلغائه.")
+        await message.answer("لا يوجد اختبار نشط لإلغائه.")
         return
 
     if message.from_user.id != session["player_id"]:
-        await message.answer(f"عذراً: فقط المختبِر ({session['player_name']}) يحق له إلغاء الاختبار.")
+        await message.answer("عذراً: فقط من بدأ الاختبار يحق له إلغاؤه.")
         return
 
-    p_name = session["player_name"]
     active_sessions.pop(chat_id, None)
-    await message.answer(f"تم إلغاء الاختبار بواسطة {p_name}.\nالمحادثة متاحة الآن عبر /start.")
+    await message.answer("تم إلغاء الاختبار.\nللبدء من جديد: /start")
 
 @dp.poll_answer()
 async def handle_answer(poll_answer: PollAnswer):
@@ -163,20 +155,18 @@ async def handle_answer(poll_answer: PollAnswer):
 
     if is_correct:
         session["score"] += 1
-        evaluation_msg = (
-            f"سؤال {q_idx + 1}:\n"
-            f"إجابة {session['player_name']}: {chosen_text}\n"
-            f"الحالة: صحيحة ✅\n"
-            f"النتيجة الحالية: {session['score']} من {q_idx + 1}"
-        )
+        mark = "✅"
     else:
-        evaluation_msg = (
-            f"سؤال {q_idx + 1}:\n"
-            f"إجابة {session['player_name']}: {chosen_text}\n"
-            f"الحالة: خاطئة ❌\n"
-            f"الإجابة الصحيحة: {correct_text}\n"
-            f"النتيجة الحالية: {session['score']} من {q_idx + 1}"
-        )
+        mark = "❌"
+
+    evaluation_msg = (
+        f"الإجابة المختارة:\n"
+        f"{chosen_text}\n\n"
+        f"الإجابة الصحيحة:\n"
+        f"{correct_text}\n\n"
+        f"النتيجة:\n"
+        f"{session['score']} من {q_idx + 1} {mark}"
+    )
 
     await bot.send_message(chat_id, evaluation_msg)
 
