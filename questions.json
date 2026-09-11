@@ -1,232 +1,275 @@
-[
-  {
-    "question": "Which group consists of infectious proteins causing neurodegenerative diseases?",
-    "options": ["Prions", "Viruses", "Fungi", "Helminths"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which of the following microorganisms have a cell wall made of peptidoglycan?",
-    "options": ["Archaea", "Fungi", "Bacteria", "Algae"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which therapy uses viruses that infect bacteria to kill resistant pathogens?",
-    "options": ["Antibiotics", "Phage therapy", "Immunotherapy", "Fecal transplantation"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Candida infections are caused by which group?",
-    "options": ["Viruses", "Protozoa", "Fungi", "Helminths"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Microbial diversity refers to:",
-    "options": ["Only bacteria found in soil", "Variety of microorganisms in different environments", "Only viruses found in animals", "Microorganisms visible to the naked eye"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which vitamins are produced by gut microbiota?",
-    "options": ["Vitamin A and D", "Vitamin K and B12", "Vitamin C and E", "Vitamin B1 and B6"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which of the following diseases is caused by viruses?",
-    "options": ["Tuberculosis", "COVID-19", "Malaria", "Candidiasis"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Archaea are known to thrive in:",
-    "options": ["Extreme environments", "Only human body", "Plant roots", "Fungi-rich habitats"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Bioremediation is the process of using microbes to:",
-    "options": ["Produce antibiotics in industry", "Detoxify pollutants, oil spills, and heavy metals", "Enhance vaccine development", "Transfer genetic material between bacteria"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which of the following is an example of a parasitic worm (helminth)?",
-    "options": ["Candida albicans", "Tapeworms", "Mycobacterium tuberculosis", "Plasmodium"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Normal flora can:",
-    "options": ["Protect the host", "Aid digestion", "Make vitamins", "All of the above"],
-    "correct_option_id": 3
-  },
-  {
-    "question": "Which group includes Plasmodium (malaria) and Entamoeba histolytica (dysentery)?",
-    "options": ["Algae", "Protozoa", "Viruses", "Fungi"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group of bacteria maintains acidic pH in the female urogenital tract?",
-    "options": ["Streptococcus viridans", "Escherichia coli", "Lactobacillus spp.", "Staphylococcus epidermidis"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which group is similar to bacteria but genetically distinct and rarely pathogenic?",
-    "options": ["Archaea", "Fungi", "Protozoa", "Viruses"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which group consists of small RNA molecules infecting plants?",
-    "options": ["Viruses", "Viroids", "Fungi", "Archaea"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Biotechnology uses microbes to:",
-    "options": ["Produce vaccines and enzymes", "Build muscles in humans", "Increase plant height", "Prevent photosynthesis"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which is NOT a function of gut microbiota?",
-    "options": ["Protect against harmful microbes", "Aid in digestion", "Making vitamins (K, B12)", "Causing neurodegenerative diseases"],
-    "correct_option_id": 3
-  },
-  {
-    "question": "Helminths are classified as:",
-    "options": ["Eukaryotic and unicellular", "Prokaryotic and unicellular", "Eukaryotic and multicellular", "Acellular parasites"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Phage therapy relies on the use of:",
-    "options": ["Antibiotics to destroy bacterial cell walls", "Viruses that specifically infect bacteria", "Fungi that produce antimicrobial compounds", "Engineered human immune cells"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group is important for gut flora and probiotics?",
-    "options": ["Fungi", "Bacteria", "Archaea", "Viruses"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Prions are unique infectious agents because they are made of:",
-    "options": ["DNA only", "RNA only", "Infectious Proteins", "Polysaccharides"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Microorganisms are:",
-    "options": ["Tiny living things visible without a microscope", "Tiny living things invisible to naked eye", "Only multicellular organisms", "Found only in soil"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Probiotic therapy often uses:",
-    "options": ["Streptococcus pyogenes", "Lactobacillus", "Candida albicans", "Mycobacterium"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Viruses are considered acellular because:",
-    "options": ["They have no DNA or RNA", "They cannot reproduce independently", "They have cell walls", "They contain ribosomes"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which characteristic is correct for archaea?",
-    "options": ["Their cell wall contains peptidoglycan-like bacteria.", "They lack a nucleus and can thrive in extreme environments such as high heat, salt, or acidity.", "They are eukaryotic unicellular organisms that undergo photosynthesis.", "They are acellular entities composed of RNA only."],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which type of microbes are commonly used in vaccine production, such as BCG and polio vaccines?",
-    "options": ["Attenuated or inactivated microbes", "Fungi producing antibiotics", "Bacteriophages infecting bacteria", "Normal gut flora"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which group consists of multicellular parasitic worms like tapeworms?",
-    "options": ["Helminths", "Protozoa", "Fungi", "Bacteria"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which function is associated with skin microbiota?",
-    "options": ["Produce vitamins like B12", "Maintain acidic pH in vagina", "Keep the skin slightly acidic", "Aid protein digestion"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which group includes unicellular yeasts and multicellular molds with cell walls made of chitin?",
-    "options": ["Fungi", "Algae", "Bacteria", "Protozoa"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Antimicrobial resistance (AMR) spreads mainly via:",
-    "options": ["Air transmission", "Horizontal gene transfer", "Vertical inheritance only", "Protein denaturation"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group is photosynthetic eukaryotes and may produce toxins?",
-    "options": ["Fungi", "Archaea", "Algae", "Prions"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Beneficial uses of viruses include:",
-    "options": ["Vaccines", "Gene therapy vectors", "Phage therapy", "All of the above"],
-    "correct_option_id": 3
-  },
-  {
-    "question": "Which site is associated with Lactobacillus spp. as normal flora?",
-    "options": ["Oral cavity", "Gut", "Urogenital tract (female)", "Skin"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which statement about helminths is correct?",
-    "options": ["They are unicellular organisms lacking nuclei.", "They are multicellular parasites that cause chronic infections in humans.", "They are acellular microbes consisting only of RNA.", "They are always beneficial and never pathogenic."],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Viroids differ from viruses because they:",
-    "options": ["Contain only proteins", "Are small RNA molecules without protein coat", "Infect bacteria only", "Have both DNA and RNA"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "The main application of phage therapy is to:",
-    "options": ["Treat viral infections like influenza", "Kill multidrug-resistant bacterial pathogens", "Replace healthy gut microbiota", "Stimulate antibody production in the host"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group includes unicellular prokaryotes with peptidoglycan?",
-    "options": ["Bacteria", "Archaea", "Protozoa", "Fungi"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which site is associated with Staphylococcus epidermidis as normal flora?",
-    "options": ["Oral cavity", "Skin", "Gut", "Urogenital tract"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Protozoa are classified as:",
-    "options": ["Prokaryotes", "Eukaryotic single-celled organisms", "Viruses", "Algae with chlorophyll"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "The main purpose of fecal microbiota transplantation (FMT) is to:",
-    "options": ["Replace damaged liver cells", "Transplant healthy gut microbes", "Stimulate antibody production directly", "Deliver synthetic antibiotics to the intestine"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Archaea are:",
-    "options": ["Prokaryotes lacking peptidoglycan", "Viruses with DNA", "Unicellular fungi", "Multicellular protozoa"],
-    "correct_option_id": 0
-  },
-  {
-    "question": "Which group includes nonliving infectious proteins like those causing Creutzfeldt-Jakob disease?",
-    "options": ["Viruses", "Bacteria", "Prions", "Viroids"],
-    "correct_option_id": 2
-  },
-  {
-    "question": "Which group are plant pathogens composed only of RNA?",
-    "options": ["Viruses", "Viroids", "Bacteria", "Protozoa"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group of microorganisms includes yeasts and molds?",
-    "options": ["Algae", "Fungi", "Archaea", "Protozoa"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which of the following is a protective role of vaginal microbiota?",
-    "options": ["Production of Vitamin D", "Maintenance of acidic pH", "Production of bile salts", "Digestion of carbohydrates"],
-    "correct_option_id": 1
-  },
-  {
-    "question": "Which group is acellular with DNA or RNA as genetic material and requires a host cell to replicate?",
-    "options": ["Viruses", "Viroids", "Protozoa", "Fungi"],
-    "correct_option_id": 0
-  }
-]
+{
+  "quiz_1": [
+    {"q": "Which of the following best defines cell biology?", "o": ["The study of ecological systems", "The study of body fluids and chemicals", "The study of the structure, function, and behavior of cells", "The study of human genetics"], "c": 2},
+    {"q": "Which statement is part of the Cell Theory?", "o": ["All living organisms are composed of one or more cells", "All organisms are made only of tissues", "Cells are non-living units", "Only animals are made of cells"], "c": 0},
+    {"q": "Which of the following is a principle of the Cell Theory?", "o": ["All cells arise from pre-existing cells through cell division", "Cells are made only of proteins", "Organisms are composed of molecules only", "Only plants are made of cells"], "c": 0},
+    {"q": "According to Cell Theory, what is considered the basic unit of life?", "o": ["Tissues", "Organs", "Cells", "Molecules"], "c": 2},
+    {"q": "Which of the following is a common feature shared by all cells?", "o": ["Ribosomes", "Cell wall", "Chloroplasts", "Mitochondria"], "c": 0},
+    {"q": "Which structure acts as a protective, semi-permeable barrier in all cells?", "o": ["Nucleus", "Plasma (cell) membrane", "Cytoplasm", "Ribosome"], "c": 1},
+    {"q": "What is the main function of the plasma membrane?", "o": ["To store genetic material", "To produce proteins", "To control movement of substances in and out of the cell", "To provide energy"], "c": 2},
+    {"q": "Which component fills the interior of the cell with a jelly-like substance?", "o": ["Cytoplasm", "Nucleus", "Cell wall", "Ribosome"], "c": 0},
+    {"q": "What molecules serve as the hereditary information in all cells?", "o": ["RNA", "DNA", "Protein", "Lipid"], "c": 1},
+    {"q": "Which cellular structure directly carries the hereditary information?", "o": ["Ribosomes", "DNA", "Plasma membrane", "Cytoplasm"], "c": 1},
+    {"q": "Which organelle is responsible for synthesizing proteins in cells?", "o": ["Nucleus", "Ribosome", "Plasma membrane", "Cytoplasm"], "c": 1},
+    {"q": "What is the main function of ribosomes?", "o": ["DNA replication", "Protein synthesis", "Lipid storage", "Energy production"], "c": 1},
+    {"q": "Which structure is found in both prokaryotic and eukaryotic cells?", "o": ["Nucleus", "Ribosomes", "Mitochondria", "Endoplasmic reticulum"], "c": 1},
+    {"q": "Which of the following is a characteristic of prokaryotic cells?", "o": ["DNA is linear and bound to proteins", "They have a nucleus", "DNA is circular and naked", "They contain membrane-bound organelles"], "c": 2},
+    {"q": "The nucleoid of a prokaryotic cell contains:", "o": ["RNA and ribosomes", "Circular DNA", "Mitochondrial DNA", "Linear chromosomes"], "c": 1},
+    {"q": "Which cell type is structurally simpler but still capable of performing essential life processes?", "o": ["Eukaryotic cells", "Prokaryotic cells", "Plant cells only", "Animal cells only"], "c": 1},
+    {"q": "Which type of ribosomes are found in prokaryotic cells?", "o": ["60S", "70S", "80S", "90S"], "c": 1},
+    {"q": "Which type of ribosome is targeted by many antibiotics in bacteria?", "o": ["80S ribosomes", "70S ribosomes", "60S ribosomes", "50S ribosomes"], "c": 1},
+    {"q": "Which type of reproduction is typical in prokaryotic cells?", "o": ["Binary fission", "Mitosis", "Meiosis", "Budding"], "c": 0},
+    {"q": "Which of the following organisms are examples of prokaryotic cells?", "o": ["Plants and animals", "Fungi", "Bacteria and archaea", "Protozoa"], "c": 2},
+    {"q": "Which structural feature is absent in prokaryotes?", "o": ["Plasma membrane", "Cytoplasm", "Membrane-bound nucleus", "Ribosomes"], "c": 2},
+    {"q": "Prokaryotic cells are best described as:", "o": ["Complex and multicellular", "Simple, single-celled organisms without a nucleus", "Organisms with mitochondria and chloroplasts", "Cells with multiple paired chromosomes"], "c": 1},
+    {"q": "The genetic material of prokaryotic cells is located in which region?", "o": ["Nucleus", "Cytoplasm", "Nucleoid", "Chromatin"], "c": 2},
+    {"q": "Which statement about eukaryotic DNA is correct?", "o": ["DNA is circular and naked", "DNA is linear and bound to proteins", "DNA is found only in the cytoplasm", "DNA lacks introns"], "c": 1},
+    {"q": "Eukaryotic cells differ from prokaryotic cells because they:", "o": ["Lack a nucleus", "Have membrane-bound organelles", "Contain circular DNA", "Reproduce only by binary fission"], "c": 1},
+    {"q": "In eukaryotic cells, which process is used for reproduction?", "o": ["Binary fission only", "Mitosis and meiosis", "Simple budding", "Fragmentation"], "c": 1},
+    {"q": "Which cell type performs mitosis and meiosis?", "o": ["Prokaryotic cells only", "Eukaryotic cells only", "Both prokaryotic and eukaryotic cells", "Neither"], "c": 1},
+    {"q": "In eukaryotic cells, chromosomes are usually found in which state?", "o": ["Single and haploid", "Paired (diploid or more)", "Circular and naked", "Found only in cytoplasm"], "c": 1},
+    {"q": "Which of the following organisms are classified as eukaryotic?", "o": ["Bacteria and archaea", "Animals, plants, fungi, protists", "Viruses only", "Blue-green algae only"], "c": 1},
+    {"q": "Eukaryotic cells are best described as:", "o": ["Simple and single-celled", "More complex cells", "Lacking a nucleus", "Only found in bacteria"], "c": 1},
+    {"q": "A defining characteristic of eukaryotic cells is the presence of a:", "o": ["Nucleoid region", "“True” nucleus", "Capsule", "Peptidoglycan wall"], "c": 1},
+    {"q": "In eukaryotic cells, the genetic material is housed in:", "o": ["The cytoplasm", "The nucleoid", "The nucleus", "Ribosomes"], "c": 2},
+    {"q": "Which structure makes eukaryotic cells more complex than prokaryotic cells?", "o": ["Capsule", "Pili", "Specialized, membrane-bound organelles", "Circular plasmids"], "c": 2},
+    {"q": "Which of the following organisms is NOT made of eukaryotic cells?", "o": ["Animals", "Plants", "Fungi", "Bacteria"], "c": 3},
+    {"q": "Which organelle is known as the control center of the cell?", "o": ["Mitochondria", "Nucleus", "Golgi apparatus", "Lysosome"], "c": 1},
+    {"q": "The nucleus stores genetic information in the form of:", "o": ["ATP", "Enzymes", "Chromosomes", "Ribosomes"], "c": 2},
+    {"q": "Which organelle is often called the “powerhouse of the cell”?", "o": ["Golgi apparatus", "Endoplasmic reticulum", "Mitochondria", "Cytoskeleton"], "c": 2},
+    {"q": "The main function of mitochondria is to:", "o": ["Break down waste", "Generate ATP", "Store DNA", "Package proteins"], "c": 1},
+    {"q": "The mitochondria generate energy in the form of:", "o": ["DNA", "RNA", "ATP", "Lipids"], "c": 2},
+    {"q": "Which organelle is described as a network of membranes helping in protein and lipid synthesis?", "o": ["Cytoskeleton", "Endoplasmic reticulum (ER)", "Golgi apparatus", "Nucleus"], "c": 1},
+    {"q": "The rough endoplasmic reticulum (ER) is associated with:", "o": ["Protein synthesis", "Lipid synthesis", "Photosynthesis", "DNA replication"], "c": 0},
+    {"q": "The smooth ER is primarily responsible for:", "o": ["Protein transport", "Lipid synthesis", "Storing genetic material", "Breaking down waste"], "c": 1},
+    {"q": "Which organelle processes, packages, and transports proteins and lipids?", "o": ["Nucleus", "Lysosomes", "Golgi apparatus", "Cytoskeleton"], "c": 2},
+    {"q": "Which organelle contains digestive enzymes for breaking down waste?", "o": ["Mitochondria", "Chloroplasts", "Lysosomes", "ER"], "c": 2},
+    {"q": "The lysosomes play a key role in:", "o": ["Storing DNA", "Breaking down waste materials and cellular debris", "Generating ATP", "Performing photosynthesis"], "c": 1},
+    {"q": "The cytoskeleton is a network of protein filaments that provide:", "o": ["Structural support, shape, and movement", "Photosynthesis", "ATP production", "DNA storage"], "c": 0},
+    {"q": "Which structure is described as a network of protein filaments?", "o": ["Cytoplasm", "Cytoskeleton", "Golgi apparatus", "Mitochondria"], "c": 1},
+    {"q": "Which organelle is found in plant cells and is the site of photosynthesis?", "o": ["Chloroplast", "Mitochondria", "Golgi apparatus", "Lysosome"], "c": 0},
+    {"q": "Which organelle uses light energy to produce sugars in plant cells?", "o": ["Lysosomes", "Chloroplasts", "Mitochondria", "Rough ER"], "c": 1},
+    {"q": "Which of the following correctly matches organelle and function?", "o": ["Lysosome – photosynthesis", "Nucleus – control center storing DNA", "Golgi – energy production", "Cytoskeleton – packaging proteins"], "c": 1},
+    {"q": "Which combination of structures is unique to many prokaryotic cells?", "o": ["Nucleus, ribosomes, capsule", "Capsule, pili, plasmids, inclusions", "Endoplasmic reticulum, nucleoid, mitochondria", "Golgi apparatus, inclusions, ribosomes"], "c": 1},
+    {"q": "Pili (fimbriae) in prokaryotic cells are mainly used for:", "o": ["Protein synthesis", "Attachment to surfaces and genetic exchange", "Energy production", "Cell wall synthesis"], "c": 1},
+    {"q": "Pili (fimbriae) are best described as:", "o": ["Hair-like protein appendages", "Lipid-based structures", "DNA molecules", "Carbohydrate chains"], "c": 0},
+    {"q": "The protein subunits that make up pili are called:", "o": ["Actin", "Pilin", "Tubulin", "Myosin"], "c": 1},
+    {"q": "One main function of pili is:", "o": ["Protein synthesis", "Attachment (adhesion) to surfaces, host cells, and other bacteria", "Energy production", "DNA replication"], "c": 1},
+    {"q": "Pili contribute to motility of the cell by:", "o": ["Swimming", "Twitching motility", "Flagellar rotation", "Gliding"], "c": 1},
+    {"q": "Pili act as a virulence factor by facilitating:", "o": ["DNA replication", "Bacterial colonization and interaction with the host", "Energy transduction", "Cell wall synthesis"], "c": 1},
+    {"q": "Biofilm formation is associated with pili and leads to:", "o": ["Antibiotic resistance", "Energy storage", "DNA destruction", "Protein breakdown"], "c": 0},
+    {"q": "Which specialized type of pili is used to transfer genetic material between bacteria?", "o": ["Adhesion pili", "Motility pili", "Sex pili", "Flagella"], "c": 2},
+    {"q": "Pili help bacteria resist antibiotics indirectly through:", "o": ["DNA synthesis", "Biofilm formation", "Protein folding", "Spore formation"], "c": 1},
+    {"q": "Pili are mainly composed of:", "o": ["Repeating protein subunits", "RNA chains", "Lipid bilayers", "Polysaccharides"], "c": 0},
+    {"q": "Flagella are best described as:", "o": ["Short, hair-like appendages", "Long, whip-like structures", "Membrane-bound organelles", "Rigid protein sheets"], "c": 1},
+    {"q": "Flagella are composed of:", "o": ["Lipid bilayers", "Complex protein-based structures", "DNA and RNA", "Carbohydrates"], "c": 1},
+    {"q": "How many main parts make up the structure of flagella?", "o": ["Two", "Three", "Four", "Five"], "c": 1},
+    {"q": "The external, helical part of a flagellum is called:", "o": ["Hook", "Filament", "Basal body", "Pilin"], "c": 1},
+    {"q": "The flexible part of a flagellum that connects the filament to basal body is called:", "o": ["Hook", "Filament", "Pilus", "Capsule"], "c": 0},
+    {"q": "The embedded basal body of a flagellum functions as:", "o": ["A source of energy", "A rotary motor", "A storage site", "A protein synthesizer"], "c": 1},
+    {"q": "Which structure provides motility in many prokaryotic cells?", "o": ["Capsule", "Flagella", "Pili", "Inclusions"], "c": 1},
+    {"q": "Flagella in prokaryotes are composed mainly of:", "o": ["Tubulin", "Actin", "Flagellin", "Myosin"], "c": 2},
+    {"q": "Which outermost structure in many prokaryotic cells provides protection against drying and helps in adhesion?", "o": ["Capsule", "Ribosome", "Nucleoid", "Inclusion"], "c": 0},
+    {"q": "What is the capsule in some bacteria made of?", "o": ["Proteins", "Lipids", "Polysaccharides", "Nucleic acids"], "c": 2},
+    {"q": "The capsule is located:", "o": ["Inside the cytoplasm", "As a sticky, outer layer of the cell", "In the nucleoid region", "Between ribosomes"], "c": 1},
+    {"q": "One function of the bacterial capsule is to:", "o": ["Carry out protein synthesis", "Attach to surfaces (adhesion)", "Produce ATP", "Transport nutrients across the membrane"], "c": 1},
+    {"q": "The capsule prevents bacteria from:", "o": ["Reproducing", "Producing proteins", "Drying out", "Dividing by binary fission"], "c": 2},
+    {"q": "How does the capsule protect bacteria inside a host?", "o": ["By aiding photosynthesis", "By protecting against the immune system", "By storing DNA", "By producing energy"], "c": 1},
+    {"q": "The capsule is considered a:", "o": ["Ribosome", "Virulence factor", "Nucleoid", "Chromosome"], "c": 1},
+    {"q": "Why is the capsule described as a virulence factor?", "o": ["It increases the rate of protein synthesis", "It helps bacteria cause disease (facilitate pathogenesis)", "It prevents binary fission", "It produces antibiotics"], "c": 1},
+    {"q": "Which statement about the bacterial capsule is TRUE?", "o": ["It is a rigid protein layer", "It protects the bacterium from immune defenses", "It replaces the cell wall", "It is composed of DNA and RNA"], "c": 1},
+    {"q": "Which of the following best describes the capsule’s role?", "o": ["Non-essential structure with no function", "Adhesion, drying prevention, and virulence", "Only involved in DNA storage", "Only involved in energy production"], "c": 1},
+    {"q": "What is one main function of the cell wall?", "o": ["Protein synthesis", "Protecting the cell from environmental stress", "DNA replication", "ATP production"], "c": 1},
+    {"q": "In bacteria, the cell wall is primarily made of:", "o": ["Cellulose", "Chitin", "Peptidoglycan", "Protein"], "c": 2},
+    {"q": "Which of the following is found in all cells, both prokaryotic and eukaryotic?", "o": ["Nucleus", "Plasma membrane", "Cell wall", "Mitochondria"], "c": 1},
+    {"q": "The plasma membrane is primarily composed of:", "o": ["Proteins only", "DNA and proteins", "A phospholipid bilayer with proteins", "RNA and carbohydrates"], "c": 2},
+    {"q": "The structural model describing the plasma membrane is called the:", "o": ["Double helix model", "Fluid mosaic structure", "Peptidoglycan framework", "Triple-layer model"], "c": 1},
+    {"q": "Which component of the plasma membrane carries out essential functions?", "o": ["DNA", "Proteins", "Lipids only", "Carbohydrates"], "c": 1},
+    {"q": "Functions of proteins in the plasma membrane include:", "o": ["Protein synthesis and DNA replication", "Transport, energy transduction, and communication", "ATP production and photosynthesis", "Transcription and translation"], "c": 1},
+    {"q": "The plasma membrane exhibits:", "o": ["Complete impermeability", "Selective permeability", "Total permeability", "No permeability at all"], "c": 1},
+    {"q": "Selective permeability means that the plasma membrane:", "o": ["Allows all molecules to pass freely", "Prevents all molecules from entering", "Allows some molecules to enter or leave while restricting others", "Has no control over substances"], "c": 2},
+    {"q": "Why is the plasma membrane considered essential for the cell?", "o": ["It contains genetic material", "It controls the movement of substances in and out", "It produces proteins", "It stores energy"], "c": 1},
+    {"q": "The nucleoid in a bacterial cell is located in:", "o": ["The nucleus", "The cytoplasm", "The mitochondria", "The ribosomes"], "c": 1},
+    {"q": "What type of genetic material is found in the bacterial nucleoid?", "o": ["Multiple linear chromosomes", "RNA molecules only", "A single, circular chromosome", "Plasmids only"], "c": 2},
+    {"q": "Which of the following is a function of the nucleoid?", "o": ["Protein synthesis", "Housing, organizing, and protecting the DNA", "ATP production", "Motility"], "c": 1},
+    {"q": "How does a bacterial nucleoid differ from a eukaryotic nucleus?", "o": ["It is enclosed by a membrane", "It is not enclosed by a membrane", "It contains multiple chromosomes", "It contains histone proteins"], "c": 1},
+    {"q": "Which structure protects the bacterial DNA inside the cell?", "o": ["Capsule", "Nucleoid", "Ribosome", "Flagellum"], "c": 1},
+    {"q": "Which of the following is NOT true about the nucleoid?", "o": ["It houses the genetic material", "It is enclosed by a membrane like in eukaryotes", "It organizes the DNA", "It protects the DNA"], "c": 1},
+    {"q": "Which term best describes the bacterial nucleoid?", "o": ["Membrane-bound organelle", "Non-membrane-bound DNA region", "Organelle for protein synthesis", "Organelle for energy conversion"], "c": 1},
+    {"q": "Small, circular pieces of extra-chromosomal DNA in prokaryotic cells are called:", "o": ["Plasmids", "Nucleoids", "Inclusions", "Chromosomes"], "c": 0},
+    {"q": "Plasmids are important in medicine because they often carry:", "o": ["Ribosomal RNA genes", "Antibiotic resistance genes", "Genes for photosynthesis only", "Genes for flagellar proteins"], "c": 1},
+    {"q": "Plasmids are typically found in:", "o": ["Eukaryotic nuclei", "Many prokaryotes", "Mitochondria only", "Plant vacuoles"], "c": 1},
+    {"q": "A key survival advantage provided by plasmids is:", "o": ["Photosynthesis", "Antibiotic resistance", "Protein synthesis", "DNA replication"], "c": 1},
+    {"q": "Plasmids are made of:", "o": ["Proteins", "RNA", "DNA", "Lipids"], "c": 2},
+    {"q": "Ribosomes are composed of:", "o": ["DNA and protein", "Protein and RNA", "Lipids and protein", "DNA and lipids"], "c": 1},
+    {"q": "What is the main function of ribosomes?", "o": ["DNA replication", "Energy production", "Protein synthesis", "Cell division"], "c": 2},
+    {"q": "Ribosomes are present in:", "o": ["Only prokaryotic cells", "Only eukaryotic cells", "Both prokaryotic and eukaryotic cells", "Only plant cells"], "c": 2},
+    {"q": "Ribosomes in eukaryotic cells are generally:", "o": ["60S", "70S", "80S", "100S"], "c": 2},
+    {"q": "In prokaryotic cells, inclusions serve as:", "o": ["Motility structures", "Storage reserves for nutrients and energy", "Sites for protein synthesis", "DNA replication centers"], "c": 1},
+    {"q": "Which of the following can be components of bacterial inclusions?", "o": ["DNA and RNA", "Glycogen, polyhydroxyalkanoates, polyphosphate, sulfur, and lipids", "Proteins and enzymes only", "Nucleic acids and histones"], "c": 1},
+    {"q": "The main function of bacterial inclusions is to act as:", "o": ["Sites for protein synthesis", "Metabolic reserves", "Structures for motility", "DNA storage"], "c": 1},
+    {"q": "Inclusions may form in bacteria due to:", "o": ["High rates of protein degradation", "Stress or over-expression of proteins", "Energy production in mitochondria", "Lack of ribosomes"], "c": 1},
+    {"q": "Gas vacuoles are an example of inclusions that help bacteria with:", "o": ["Protein synthesis", "Buoyancy", "Antibiotic resistance", "Cell division"], "c": 1},
+    {"q": "Which inclusion helps some bacteria control buoyancy in aquatic environments?", "o": ["Gas vacuoles", "Carboxysomes", "Lipid droplets", "Polyphosphate granules"], "c": 0},
+    {"q": "Carboxysomes, a type of inclusion, contain enzymes for:", "o": ["Nitrogen fixation", "Carbon fixation", "Protein synthesis", "ATP production"], "c": 1},
+    {"q": "Which of the following is NOT mentioned as a material in inclusions?", "o": ["Glycogen", "Polyhydroxyalkanoates", "Peptidoglycan", "Sulfur"], "c": 2},
+    {"q": "Which specialized inclusion is directly involved in photosynthetic carbon fixation?", "o": ["Gas vacuoles", "Carboxysomes", "Polyphosphate granules", "Lipid droplets"], "c": 1},
+    {"q": "Which of the following correctly matches structure with its main function?", "o": ["Ribosomes – motility", "Flagella – protein synthesis", "Plasmids – extra-chromosomal DNA", "Capsule – photosynthesis"], "c": 2},
+    {"q": "Which activity in prokaryotic cells involves chemical reactions that provide energy?", "o": ["Gene expression", "Metabolism", "Genetic exchange", "Binary fission"], "c": 1},
+    {"q": "Metabolism in cells is defined as:", "o": ["Only the breakdown of molecules", "Only the construction of molecules", "The biochemical reactions that allow a cell to grow, survive, and reproduce", "The movement of molecules across membranes"], "c": 2},
+    {"q": "The breakdown of complex molecules for energy is called:", "o": ["Anabolism", "Catabolism", "Replication", "Translation"], "c": 1},
+    {"q": "The construction of complex molecules in metabolism is called:", "o": ["Catabolism", "Anabolism", "Binary fission", "Oxidation"], "c": 1},
+    {"q": "Which two processes together make up metabolism?", "o": ["Transcription and translation", "Anabolism and catabolism", "Replication and fission", "Photosynthesis and respiration"], "c": 1},
+    {"q": "Which of the following is listed as a type of metabolism in prokaryotes?", "o": ["Protein metabolism", "Carbon metabolism", "Water metabolism", "DNA metabolism"], "c": 1},
+    {"q": "Prokaryotic DNA replication is described as:", "o": ["Slow and inaccurate", "Rapid and efficient", "Random and uncontrolled", "Limited to eukaryotes"], "c": 1},
+    {"q": "When does prokaryotic DNA replication occur?", "o": ["After protein synthesis", "Before cell division", "During cell wall breakdown", "After transcription"], "c": 1},
+    {"q": "Which type of genetic material is duplicated during prokaryotic replication?", "o": ["RNA", "Proteins", "DNA", "Lipids"], "c": 2},
+    {"q": "The duplication of DNA in prokaryotic cells is called:", "o": ["Gene expression", "Genetic replication", "Binary fission", "Genetic exchange"], "c": 1},
+    {"q": "Genetic exchange in prokaryotes occurs mainly through:", "o": ["Horizontal gene transfer", "Cell wall formation", "ATP synthesis", "Binary fission"], "c": 0},
+    {"q": "Horizontal gene transfer contributes to:", "o": ["Making cells genetically identical", "Increasing genetic diversity", "Decreasing genetic material", "Preventing evolution"], "c": 1},
+    {"q": "Which structure helps bacteria exchange genetic material ?", "o": ["Ribosomes", "Sex pili", "Flagella", "Inclusions"], "c": 1},
+    {"q": "Which activity allows prokaryotes to share DNA between cells?", "o": ["Metabolism", "Genetic replication", "Genetic exchange", "Gene expression"], "c": 2},
+    {"q": "In prokaryotic cells, cell division occurs mainly by:", "o": ["Mitosis", "Meiosis", "Binary fission", "Budding"], "c": 2},
+    {"q": "Binary fission in prokaryotes is a type of:", "o": ["Sexual reproduction", "Asexual reproduction", "Genetic exchange", "Protein synthesis"], "c": 1},
+    {"q": "Binary fission is found in:", "o": ["Eukaryotic cells only", "Prokaryotic cells", "Viruses only", "Plant cells only"], "c": 1},
+    {"q": "Compared to mitosis in eukaryotes, binary fission is:", "o": ["Slower and more complex", "Simpler and faster", "The same process", "Less accurate"], "c": 1},
+    {"q": "Binary fission in prokaryotes produces:", "o": ["Genetically identical cells", "Genetically diverse cells", "Gametes", "No daughter cells"], "c": 0},
+    {"q": "The key difference between binary fission and genetic exchange is that:", "o": ["Both always create diversity", "Binary fission produces identical cells, while genetic exchange increases diversity", "Binary fission is sexual, while genetic exchange is asexual", "Genetic exchange makes cells identical"], "c": 1},
+    {"q": "The processes of transcription and translation together represent:", "o": ["Cell division", "Gene expression", "Metabolism", "Genetic replication"], "c": 1},
+    {"q": "Which two processes make up gene expression?", "o": ["Transcription and translation", "Replication and transcription", "Binary fission and replication", "Exchange and replication"], "c": 0}
+  ],
+  "quiz_2": [
+    {"q": "Which group consists of infectious proteins causing neurodegenerative diseases?", "o": ["Prions", "Viruses", "Fungi", "Helminths"], "c": 0},
+    {"q": "Which of the following microorganisms have a cell wall made of peptidoglycan?", "o": ["Archaea", "Fungi", "Bacteria", "Algae"], "c": 2},
+    {"q": "Which therapy uses viruses that infect bacteria to kill resistant pathogens?", "o": ["Antibiotics", "Phage therapy", "Immunotherapy", "Fecal transplantation"], "c": 1},
+    {"q": "Candida infections are caused by which group?", "o": ["Viruses", "Protozoa", "Fungi", "Helminths"], "c": 2},
+    {"q": "Microbial diversity refers to:", "o": ["Only bacteria found in soil", "Variety of microorganisms in different environments", "Only viruses found in animals", "Microorganisms visible to the naked eye"], "c": 1},
+    {"q": "Which vitamins are produced by gut microbiota?", "o": ["Vitamin A and D", "Vitamin K and B12", "Vitamin C and E", "Vitamin B1 and B6"], "c": 1},
+    {"q": "Which of the following diseases is caused by viruses?", "o": ["Tuberculosis", "COVID-19", "Malaria", "Candidiasis"], "c": 1},
+    {"q": "Archaea are known to thrive in:", "o": ["Extreme environments", "Only human body", "Plant roots", "Fungi-rich habitats"], "c": 0},
+    {"q": "Bioremediation is the process of using microbes to:", "o": ["Produce antibiotics in industry", "Detoxify pollutants, oil spills, and heavy metals", "Enhance vaccine development", "Transfer genetic material between bacteria"], "c": 1},
+    {"q": "Which of the following is an example of a parasitic worm (helminth)?", "o": ["Candida albicans", "Tapeworms", "Mycobacterium tuberculosis", "Plasmodium"], "c": 1},
+    {"q": "Normal flora can:", "o": ["Protect the host", "Aid digestion", "Make vitamins", "All of the above"], "c": 3},
+    {"q": "Which group includes Plasmodium (malaria) and Entamoeba histolytica (dysentery)?", "o": ["Algae", "Protozoa", "Viruses", "Fungi"], "c": 1},
+    {"q": "Which group of bacteria maintains acidic pH in the female urogenital tract?", "o": ["Streptococcus viridans", "Escherichia coli", "Lactobacillus spp.", "Staphylococcus epidermidis"], "c": 2},
+    {"q": "Which group is similar to bacteria but genetically distinct and rarely pathogenic?", "o": ["Archaea", "Fungi", "Protozoa", "Viruses"], "c": 0},
+    {"q": "Which group consists of small RNA molecules infecting plants?", "o": ["Viruses", "Viroids", "Fungi", "Archaea"], "c": 1},
+    {"q": "Biotechnology uses microbes to:", "o": ["Produce vaccines and enzymes", "Build muscles in humans", "Increase plant height", "Prevent photosynthesis"], "c": 0},
+    {"q": "Which is NOT a function of gut microbiota?", "o": ["Protect against harmful microbes", "Aid in digestion", "Making vitamins (K, B12)", "Causing neurodegenerative diseases"], "c": 3},
+    {"q": "Helminths are classified as:", "o": ["Eukaryotic and unicellular", "Prokaryotic and unicellular", "Eukaryotic and multicellular", "Acellular parasites"], "c": 2},
+    {"q": "Phage therapy relies on the use of:", "o": ["Antibiotics to destroy bacterial cell walls", "Viruses that specifically infect bacteria", "Fungi that produce antimicrobial compounds", "Engineered human immune cells"], "c": 1},
+    {"q": "Which group is important for gut flora and probiotics?", "o": ["Fungi", "Bacteria", "Archaea", "Viruses"], "c": 1},
+    {"q": "Prions are unique infectious agents because they are made of:", "o": ["DNA only", "RNA only", "Infectious Proteins", "Polysaccharides"], "c": 2},
+    {"q": "Microorganisms are:", "o": ["Tiny living things visible without a microscope", "Tiny living things invisible to naked eye", "Only multicellular organisms", "Found only in soil"], "c": 1},
+    {"q": "Probiotic therapy often uses:", "o": ["Streptococcus pyogenes", "Lactobacillus", "Candida albicans", "Mycobacterium"], "c": 1},
+    {"q": "Viruses are considered acellular because:", "o": ["They have no DNA or RNA", "They cannot reproduce independently", "They have cell walls", "They contain ribosomes"], "c": 1},
+    {"q": "Which characteristic is correct for archaea?", "o": ["Their cell wall contains peptidoglycan-like bacteria.", "They lack a nucleus and can thrive in extreme environments such as high heat, salt, or acidity.", "They are eukaryotic unicellular organisms that undergo photosynthesis.", "They are acellular entities composed of RNA only."], "c": 1},
+    {"q": "Which type of microbes are commonly used in vaccine production, such as BCG and polio vaccines?", "o": ["Attenuated or inactivated microbes", "Fungi producing antibiotics", "Bacteriophages infecting bacteria", "Normal gut flora"], "c": 0},
+    {"q": "Which group consists of multicellular parasitic worms like tapeworms?", "o": ["Helminths", "Protozoa", "Fungi", "Bacteria"], "c": 0},
+    {"q": "Which function is associated with skin microbiota?", "o": ["Produce vitamins like B12", "Maintain acidic pH in vagina", "Keep the skin slightly acidic", "Aid protein digestion"], "c": 2},
+    {"q": "Which group includes unicellular yeasts and multicellular molds with cell walls made of chitin?", "o": ["Fungi", "Algae", "Bacteria", "Protozoa"], "c": 0},
+    {"q": "Antimicrobial resistance (AMR) spreads mainly via:", "o": ["Air transmission", "Horizontal gene transfer", "Vertical inheritance only", "Protein denaturation"], "c": 1},
+    {"q": "Which group is photosynthetic eukaryotes and may produce toxins?", "o": ["Fungi", "Archaea", "Algae", "Prions"], "c": 2},
+    {"q": "Beneficial uses of viruses include:", "o": ["Vaccines", "Gene therapy vectors", "Phage therapy", "All of the above"], "c": 3},
+    {"q": "Which site is associated with Lactobacillus spp. as normal flora?", "o": ["Oral cavity", "Gut", "Urogenital tract (female)", "Skin"], "c": 2},
+    {"q": "Which statement about helminths is correct?", "o": ["They are unicellular organisms lacking nuclei.", "They are multicellular parasites that cause chronic infections in humans.", "They are acellular microbes consisting only of RNA.", "They are always beneficial and never pathogenic."], "c": 1},
+    {"q": "Viroids differ from viruses because they:", "o": ["Contain only proteins", "Are small RNA molecules without protein coat", "Infect bacteria only", "Have both DNA and RNA"], "c": 1},
+    {"q": "The main application of phage therapy is to:", "o": ["Treat viral infections like influenza", "Kill multidrug-resistant bacterial pathogens", "Replace healthy gut microbiota", "Stimulate antibody production in the host"], "c": 1},
+    {"q": "Which group includes unicellular prokaryotes with peptidoglycan?", "o": ["Bacteria", "Archaea", "Protozoa", "Fungi"], "c": 0},
+    {"q": "Which site is associated with Staphylococcus epidermidis as normal flora?", "o": ["Oral cavity", "Skin", "Gut", "Urogenital tract"], "c": 1},
+    {"q": "Protozoa are classified as:", "o": ["Prokaryotes", "Eukaryotic single-celled organisms", "Viruses", "Algae with chlorophyll"], "c": 1},
+    {"q": "The main purpose of fecal microbiota transplantation (FMT) is to:", "o": ["Replace damaged liver cells", "Transplant healthy gut microbes", "Stimulate antibody production directly", "Deliver synthetic antibiotics to the intestine"], "c": 1},
+    {"q": "Archaea are:", "o": ["Prokaryotes lacking peptidoglycan", "Viruses with DNA", "Unicellular fungi", "Multicellular protozoa"], "c": 0},
+    {"q": "Which group includes nonliving infectious proteins like those causing Creutzfeldt-Jakob disease?", "o": ["Viruses", "Bacteria", "Prions", "Viroids"], "c": 2},
+    {"q": "Which group are plant pathogens composed only of RNA?", "o": ["Viruses", "Viroids", "Bacteria", "Protozoa"], "c": 1},
+    {"q": "Which group of microorganisms includes yeasts and molds?", "o": ["Algae", "Fungi", "Archaea", "Protozoa"], "c": 1},
+    {"q": "Which of the following is a protective role of vaginal microbiota?", "o": ["Production of Vitamin D", "Maintenance of acidic pH", "Production of bile salts", "Digestion of carbohydrates"], "c": 1},
+    {"q": "Which group is acellular with DNA or RNA as genetic material and requires a host cell to replicate?", "o": ["Viruses", "Viroids", "Protozoa", "Fungi"], "c": 0}
+  ],
+  "quiz_3": [
+    {"q": "Microscopy is defined as:", "o": ["The study of DNA sequences", "The science of using microscopes to view objects invisible to the naked eye", "The process of preparing laboratory slides", "The science of staining tissues"], "c": 1},
+    {"q": "One importance of microscopy in medicine is:", "o": ["Diagnosing malaria and tuberculosis", "Designing surgical tools", "Producing vaccines", "Measuring blood pressure"], "c": 0},
+    {"q": "Magnification is defined as:", "o": ["The ability to distinguish two objects", "Enlargement of image compared to the real size of the object", "The difference in intensity between specimen and background", "The bending of light"], "c": 1},
+    {"q": "Resolution (resolving power) is defined as:", "o": ["The enlargement of image", "The ability to distinguish two closely spaced objects as separate", "The ability to create contrast", "The distance between lens and object"], "c": 1},
+    {"q": "Contrast is defined as:", "o": ["The enlargement of the object", "The difference in intensity between specimen and background", "The ability to distinguish two objects", "The ability to reflect light"], "c": 1},
+    {"q": "Which of the following can enhance contrast?", "o": ["Decreasing magnification", "Using stains, dyes, or special techniques (phase contrast, fluorescence)", "Reducing resolution", "Changing the numerical aperture"], "c": 1},
+    {"q": "Which principle is directly linked to distinguishing two separate objects?", "o": ["Magnification", "Resolution", "Contrast", "Refraction"], "c": 1},
+    {"q": "Which type of microscopy is the most common and requires staining for contrast?", "o": ["Dark field", "Bright field", "Phase contrast", "Fluorescence"], "c": 1},
+    {"q": "Dark field microscopy is mainly used to:", "o": ["Improve contrast for unstained samples", "Visualize fluorescent dyes", "Examine DNA sequences", "Produce 3D surface structures"], "c": 0},
+    {"q": "Which type of microscopy enhances contrast of transparent cells?", "o": ["Phase contrast", "Bright field", "Fluorescence", "Electron"], "c": 0},
+    {"q": "Transmission Electron Microscope (TEM) is mainly used to view:", "o": ["Transparent living cells", "Internal structures at very high resolution", "Surface structures in 3D", "Stained samples only"], "c": 1},
+    {"q": "Scanning Electron Microscope (SEM) provides:", "o": ["High resolution of DNA sequences", "Surface structures in 3D detail", "Contrast in transparent cells", "Fluorescent labeling of proteins"], "c": 1},
+    {"q": "The magnifying system of the microscope is composed of:", "o": ["Stage and focus knobs", "Light source and condenser", "Objective lenses and ocular lenses", "Base and body tube"], "c": 1},
+    {"q": "Which two types of microscopy fall under electron microscopy?", "o": ["Bright field and dark field", "TEM and SEM", "Phase contrast and fluorescence", "Confocal and atomic force"], "c": 1},
+    {"q": "Which statement is TRUE based on the text?", "o": ["Bright field is most common and requires staining", "Dark field uses fluorescent dyes", "SEM examines internal structures", "TEM gives surface 3D detail"], "c": 0},
+    {"q": "Which step of sample preparation in microscopy is used to increase contrast?", "o": ["Fixation", "Staining", "Sectioning", "Mounting"], "c": 1},
+    {"q": "Staining is performed in microscopy mainly to:", "o": ["Preserve cellular structures", "Break down large molecules", "Increase contrast of the specimen", "Cut thin sections"], "c": 2},
+    {"q": "Which type of microscopy has higher resolution than light microscopy?", "o": ["Phase contrast microscopy", "Fluorescence microscopy", "Electron microscopy", "Dark field microscopy"], "c": 2},
+    {"q": "Which of the following is a limitation unique to electron microscopy?", "o": ["Limited by the wavelength of light", "Requires vacuum and complex preparation", "Low magnification power", "Inability to study fixed samples"], "c": 1}
+  ],
+  "quiz_4": [
+    {"q": "Microorganism classification is defined as:", "o": ["The random grouping of organisms", "The systematic arrangement of microorganisms into groups or categories", "The naming of new organisms", "The study of viruses only"], "c": 1},
+    {"q": "Classification of microorganisms is based on:", "o": ["Random choice", "Shared characteristics", "Only DNA sequence", "Only size of organism"], "c": 1},
+    {"q": "Staining properties are considered important in:", "o": ["Nutrition studies", "Classification of microorganisms", "Genetic exchange", "Cell division"], "c": 1},
+    {"q": "The final level of classification in taxonomy is:", "o": ["Phylum", "Order", "Genus", "Species"], "c": 3},
+    {"q": "Which statement summarizes the importance of classification?", "o": ["Organize diversity, identify pathogens, avoid AMR, understand relationships, guide treatment", "Only identify bacteria in soil", "Focus only on viruses", "Study only eukaryotes"], "c": 0},
+    {"q": "Who proposed the Two Kingdom system of classification?", "o": ["Whittaker", "Woese", "Linnaeus", "Darwin"], "c": 2},
+    {"q": "The classification system of Whittaker (1969) was based on:", "o": ["Three Domains", "Five Kingdoms", "Two Kingdoms", "Seven Kingdoms"], "c": 1},
+    {"q": "The Five Kingdoms according to Whittaker are:", "o": ["Monera, Protista, Fungi, Plantae, Animalia", "Bacteria, Archaea, Eukarya", "Plantae, Animalia, Fungi only", "Protista, Plantae, Archaea, Bacteria, Fungi"], "c": 0},
+    {"q": "Woese (1977) proposed the classification into:", "o": ["Five Kingdoms", "Three Domains", "Two Kingdoms", "Seven Classes"], "c": 1},
+    {"q": "The Three Domains proposed by Woese are:", "o": ["Monera, Protista, Animalia", "Bacteria, Archaea, Eukarya", "Plantae, Fungi, Protista", "Viruses, Bacteria, Archaea"], "c": 1},
+    {"q": "Cells in the Bacteria Domain are:", "o": ["Eukaryotic", "Prokaryotic", "Multicellular", "Without DNA"], "c": 1},
+    {"q": "The cell wall of bacteria is mainly composed of:", "o": ["Chitin", "Cellulose", "Peptidoglycan", "Lipids"], "c": 2},
+    {"q": "Bacteria typically reproduce by:", "o": ["Mitosis", "Binary fission", "Meiosis", "Budding"], "c": 1},
+    {"q": "Cells in the Archaea Domain are:", "o": ["Eukaryotic", "Prokaryotic", "Multicellular", "Viruses"], "c": 1},
+    {"q": "Which of the following is TRUE about Archaea?", "o": ["Their cell walls contain peptidoglycan", "They live in extreme environments (extremophiles)", "They are pathogenic to humans", "They reproduce only by mitosis"], "c": 1},
+    {"q": "The Protista Kingdom belongs to which domain?", "o": ["Bacteria", "Archaea", "Eukarya", "Viruses"], "c": 2},
+    {"q": "The Fungi Kingdom has cell walls made of:", "o": ["Peptidoglycan", "Cellulose", "Chitin", "Protein"], "c": 2},
+    {"q": "Examples of fungi include:", "o": ["Protozoa and algae", "Yeasts and molds", "Bacteria and archaea", "Extremophiles"], "c": 1},
+    {"q": "Viruses are described as:", "o": ["Cellular organisms", "Acellular entities", "Prokaryotic cells", "Eukaryotic cells"], "c": 1},
+    {"q": "The genetic material of viruses can be:", "o": ["Both DNA and RNA at the same time", "Only proteins", "Either DNA or RNA", "Only DNA"], "c": 2},
+    {"q": "Viruses are considered:", "o": ["Free-living organisms", "Obligate intracellular parasites", "Independent of host cells", "Capable of binary fission"], "c": 1},
+    {"q": "The correct order of taxonomic ranks is increasing similarity:", "o": ["Kingdom → Class → Phylum → Order → Family → Genus → Species", "Kingdom → Phylum → Class → Order → Family → Genus → Species", "Phylum → Kingdom → Class → Family → Order → Genus → Species", "Kingdom → Order → Phylum → Class → Genus → Family → Species"], "c": 1},
+    {"q": "The Genus of Escherichia coli is:", "o": ["coli", "Escherichia", "Enterobacteriaceae", "Proteobacteria"], "c": 1},
+    {"q": "The Species of Staphylococcus aureus is:", "o": ["aureus", "Staphylococcus", "Staphylococcaceae", "Bacillales"], "c": 0},
+    {"q": "Classification according to oxygen requirement includes:", "o": ["CAI and Nosocomial", "Obligate aerobes, Obligate anaerobes, Facultative anaerobes, Microaerophiles", "Gram-positive and Gram-negative", "MDR and XDR"], "c": 1},
+    {"q": "Which classification type includes “Obligate anaerobes” and “Microaerophiles”?", "o": ["Nutrition-based classification", "Oxygen requirement classification", "Antibiotic susceptibility classification", "Place of infection"], "c": 1},
+    {"q": "Obligate aerobes and facultative anaerobes are part of:", "o": ["Oxygen requirement classification", "Molecular classification", "Nutrition classification", "Place of infection classification"], "c": 0},
+    {"q": "Which oxygen group requires oxygen for survival?", "o": ["Obligate anaerobes", "Obligate aerobes", "Facultative anaerobes", "Microaerophiles"], "c": 1},
+    {"q": "Which oxygen group cannot survive in the presence of oxygen?", "o": ["Obligate aerobes", "Facultative anaerobes", "Obligate anaerobes", "Microaerophiles"], "c": 2},
+    {"q": "Classification according to nutrition includes:", "o": ["Photoautotrophs and Chemoheterotrophs", "Gram-positive and Gram-negative", "MDR and PDR", "Aerobes and anaerobes"], "c": 0},
+    {"q": "Photoautotrophs and Chemoheterotrophs belong to:", "o": ["Oxygen requirement classification", "Nutrition-based classification", "Antibiotic susceptibility classification", "Stain classification"], "c": 1},
+    {"q": "Photoautotrophs make their own food using:", "o": ["Organic compounds", "Light", "Other organisms", "Proteins"], "c": 1},
+    {"q": "Which of the following describes photoautotrophs?", "o": ["Cannot make their own food", "Must eat organic compounds", "Make their own food using light", "Depend on proteins from others"], "c": 2},
+    {"q": "Which of the following describes chemoheterotrophs?", "o": ["Use CO₂ and light energy", "Cannot make their own food from CO₂", "Produce sugars from light", "Make food by photosynthesis"], "c": 1},
+    {"q": "Which group uses light directly to produce organic compounds?", "o": ["Chemoheterotrophs", "Obligate anaerobes", "Photoautotrophs", "Microaerophiles"], "c": 2},
+    {"q": "Classification according to staining methods includes:", "o": ["Gram stain, Acid-fast stain, Capsule stain", "PCR, WGS, MALDI-TOF", "MDR, XDR, PDR", "CAI and Nosocomial"], "c": 0},
+    {"q": "The India ink method highlights:", "o": ["Endospores", "Capsules", "Flagella", "Acid-fast bacteria"], "c": 1},
+    {"q": "The Schaeffer–Fulton method identifies:", "o": ["Capsules", "Endospores", "Parasites", "Fungi"], "c": 1},
+    {"q": "Giemsa stain is used in diagnosis of:", "o": ["Gram-negative infections", "Parasitic infections", "Fungal infections", "Viral infections"], "c": 1},
+    {"q": "Fungi can be stained using:", "o": ["PAS stain", "Silver stain", "Both A and B", "Capsule stain only"], "c": 2},
+    {"q": "Gram stain differentiates bacteria into:", "o": ["Acid-fast and non–acid-fast", "Gram-positive and Gram-negative", "Spore formers and non-spore formers", "Fungi and protozoa"], "c": 1},
+    {"q": "Which stain can detect Whipple’s disease?", "o": ["PAS stain", "Giemsa stain", "Capsule stain", "Gram stain"], "c": 0},
+    {"q": "Classification based on antibiotic susceptibility divides microorganisms into:", "o": ["Aerobes and anaerobes", "Susceptible and resistant", "Gram-positive and Gram-negative", "Prokaryotes and eukaryotes"], "c": 1},
+    {"q": "Antibiotic-susceptible microorganisms are:", "o": ["Resistant to most antibiotics", "Sensitive to standard antibiotics", "Not affected by first-line drugs", "Always multidrug-resistant"], "c": 1},
+    {"q": "Treatment of antibiotic-susceptible microorganisms is usually:", "o": ["Unsuccessful", "Successful with first-line antibiotics", "Dependent only on surgery", "Only possible with antivirals"], "c": 1},
+    {"q": "Antibiotic-resistant microorganisms are:", "o": ["Sensitive to standard antibiotics", "Not sensitive to standard antibiotics", "Always killed by penicillin", "Harmless"], "c": 1},
+    {"q": "Which group includes microorganisms not sensitive to standard antibiotics?", "o": ["Antibiotic-susceptible microorganisms", "Antibiotic-resistant microorganisms", "Gram-positive bacteria", "Facultative anaerobes"], "c": 1},
+    {"q": "Classification according to molecular methods includes:", "o": ["Gram stain, Acid-fast stain", "WGS, PCR, MALDI-TOF", "Aerobes and Anaerobes", "MDR, XDR, PDR"], "c": 1},
+    {"q": "MALDI-TOF mass spectrometry belongs to:", "o": ["Antibiotic susceptibility classification", "Molecular classification", "Differential stains classification", "Nutrition classification"], "c": 1},
+    {"q": "Whole Genome Sequencing (WGS) is part of:", "o": ["Nutrition-based classification", "Antibiotic susceptibility classification", "Molecular classification", "Place of infection classification"], "c": 2},
+    {"q": "PCR-based methods are used in:", "o": ["Staining classification", "Molecular classification", "Oxygen requirement classification", "Nutrition-based classification"], "c": 1},
+    {"q": "Whole Genome Sequencing provides:", "o": ["Protein fingerprints", "Complete genetic blueprint", "RNA virus detection only", "Antibiotic sensitivity"], "c": 1},
+    {"q": "Conventional PCR is used to amplify:", "o": ["Proteins", "Specific genes", "Entire genomes", "Antibiotics"], "c": 1},
+    {"q": "RT-PCR is especially used to detect:", "o": ["DNA viruses only", "RNA viruses (e.g., influenza, SARS-CoV-2)", "Protein toxins", "Gram-negative bacteria"], "c": 1},
+    {"q": "MALDI-TOF identifies microbes by analyzing:", "o": ["DNA sequences", "Ribosomal proteins", "RNA molecules", "Capsules"], "c": 1},
+    {"q": "Which method works on the principle of protein identification rather than nucleic acids?", "o": ["WGS", "PCR", "MALDI-TOF mass spectrometry", "RT-PCR"], "c": 2},
+    {"q": "Classification according to the place of infection divides infections into:", "o": ["Opportunistic and primary", "Gram-positive and Gram-negative", "Community-acquired and nosocomial-infection", "Viral and bacterial"], "c": 2},
+    {"q": "Community-acquired infections (CAI) vs. Nosocomial infections are classified according to:", "o": ["Nutrition", "Place of infection", "Oxygen requirement", "Antibiotic resistance"], "c": 1},
+    {"q": "A patient acquires infection outside healthcare settings. This is:", "o": ["Nosocomial infection", "Community-acquired infection", "Oxygen requirement classification", "MDR pathogen"], "c": 1},
+    {"q": "Community-acquired infections are acquired:", "o": ["During hospital stay", "Outside of healthcare settings", "After surgery only", "Only in intensive care units"], "c": 1},
+    {"q": "Nosocomial infections are acquired:", "o": ["Before hospital admission", "During hospital stay, usually after 48 hours", "Always from community settings", "Only from food contamination"], "c": 1},
+    {"q": "Nosocomial infections are commonly caused by microorganisms that are:", "o": ["Sensitive to first-line antibiotics", "Antibiotic-resistant", "Always Gram-positive", "Always fungi"], "c": 1},
+    {"q": "A patient develops MRSA bacteremia 5 days after hospitalization. This is:", "o": ["CAI", "Nosocomial infection", "Viral infection", "Non-infectious disease"], "c": 1}
+  ]
+}
