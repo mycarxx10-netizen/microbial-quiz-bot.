@@ -8,7 +8,7 @@ from aiogram.types import Message, PollAnswer
 from aiogram.filters import Command
 
 # ضع التوكن الجديد الذي حصلت عليه بعد عمل Revoke هنا
-BOT_TOKEN = "8601813721:AAGsnFO8LwzpgHlKh9hM0Px7MJu9C0BT4JI"
+BOT_TOKEN = "8221232809:AAG4prWFuna6mqFm0enoo3CB01iCI-Irptk"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
